@@ -1,0 +1,20 @@
+base = [
+    book 1984
+    authors George Orwell
+    pub_date 1949
+    description "A dystopian novel by English writer George Orwell published in June 1949, whose themes center on the risks of government overreach, totalitarianism and repressive regimentation of all persons and behaviors within society"
+    end_book
+
+    book Brave New World
+    authors Aldous Huxley
+    publication_date 1932
+    description "A dystopian novel largely set in a futuristic World State of genetically modified citizens and an intelligence-based social hierarchy"
+    end_book
+
+    old books = [
+        book Orlando furioso
+        authors Ludovico Ariosto
+        pub_date 1516
+        description "An Italian epic poem that mixes realism and fantasy, humor and tragedy. The stage is the entire world, plus a trip to the Moon"
+    ]
+]
